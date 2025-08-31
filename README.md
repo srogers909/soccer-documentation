@@ -1,4 +1,4 @@
-# ⚽ Soccer Engine Dart - Complete Documentation
+# ⚽ Soccer Manager Sim - Complete Documentation
 
 Welcome to the comprehensive documentation hub for the **Soccer Engine Dart** ecosystem - a sophisticated, multi-component soccer simulation and management platform built with Dart/Flutter using Test-Driven Development methodology.
 
