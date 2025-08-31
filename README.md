@@ -1,10 +1,10 @@
 # ⚽ Soccer Manager Sim - Complete Documentation
 
-Welcome to the comprehensive documentation hub for the **Soccer Engine Dart** ecosystem - a sophisticated, multi-component soccer simulation and management platform built with Dart/Flutter using Test-Driven Development methodology.
+Welcome to the comprehensive documentation hub for the **Soccer Manager Sim** ecosystem - a sophisticated, multi-component soccer simulation and management platform built with Dart/Flutter using Test-Driven Development methodology.
 
 ## 🎯 Project Overview
 
-The Soccer Engine Dart is a complete soccer ecosystem consisting of multiple integrated components that work together to provide realistic soccer simulation, data generation, and management experiences optimized for mobile gaming on Samsung Galaxy S25 Ultra.
+The Soccer Manager Sim is a complete soccer ecosystem consisting of multiple integrated components that work together to provide realistic soccer simulation, data generation, and management experiences optimized for mobile gaming on Samsung Galaxy S25 Ultra.
 
 ### 🏗️ System Architecture
 
